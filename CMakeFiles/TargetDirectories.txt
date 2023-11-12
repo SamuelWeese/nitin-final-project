@@ -1,0 +1,3 @@
+/home/anon/Dev/C++/QtCreatored/turnin/CMakeFiles/rebuild_cache.dir
+/home/anon/Dev/C++/QtCreatored/turnin/CMakeFiles/edit_cache.dir
+/home/anon/Dev/C++/QtCreatored/turnin/CMakeFiles/ExtraCreditNitin.dir
